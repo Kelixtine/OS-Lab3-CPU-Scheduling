@@ -175,3 +175,14 @@ RMS is suitable for predictable periodic tasks when a simpler fixed-priority sch
 This activity demonstrated three CPU scheduling algorithms: Multilevel Queue Scheduling, Rate Monotonic Scheduling, and Earliest Deadline First. The MLQ simulation showed how interactive and batch processes can be handled using different queues and scheduling methods. The RMS and EDF simulations both achieved 65% CPU utilization and completed the 20 ms simulation without missed deadlines. The activity helped demonstrate the differences between queue-based, fixed-priority, and dynamic-priority scheduling.
 
 
+
+## IX. Screenshots
+
+### 1. Multilevel Queue Scheduling (MLQ)
+![MLQ Screenshot](screenshots/mlq.png)
+
+### 2. Rate Monotonic Scheduling (RMS)
+![RMS Screenshot](screenshots/rms.png)
+
+### 3. Earliest Deadline First (EDF)
+![EDF Screenshot](screenshots/edf.png)
