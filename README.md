@@ -1,9 +1,9 @@
-# BCA151 – Operating Systems Laboratory Activity 3
+# BCA151 ï¿½ Operating Systems Laboratory Activity 3
 ## Multilevel Queue and Real-Time CPU Scheduling
 
-**Student Name:** [Your Name]
-**Section:** [Your Section]
-**Course:** BCA151 – Operating Systems
+**Student Name:** [Emmery Kelsey V. Mendoza]
+**Section:** [B186]
+**Course:** BCA151 ï¿½ Operating Systems
 **Activity:** Laboratory Activity 3
 
 ---
@@ -29,8 +29,8 @@ This activity implements three CPU scheduling algorithms: Multilevel Queue Sched
 
 Multilevel Queue Scheduling separates processes into different queues according to their categories.
 
-- Queue 1 – Interactive: Round Robin with a time quantum of 2 ms.
-- Queue 2 – Batch: First Come First Served (FCFS).
+- Queue 1 ï¿½ Interactive: Round Robin with a time quantum of 2 ms.
+- Queue 2 ï¿½ Batch: First Come First Served (FCFS).
 - Queue 1 has higher priority than Queue 2.
 - A Queue 1 process arriving while Queue 2 is running interrupts Queue 2. The interrupted process resumes later.
 
